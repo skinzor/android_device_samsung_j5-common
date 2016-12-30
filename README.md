@@ -1,3 +1,6 @@
+# omni_device_common
+
+
 Device tree for Samsung Galaxy J5
 =================================
 
